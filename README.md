@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-Proprietary software by day, FOSS by night.
+![Haohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=haohanyang)
